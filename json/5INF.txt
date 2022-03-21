@@ -1,0 +1,12 @@
+[
+  {"isbn":"9788810614068","materia":"religione","titolo":"incontro all'altro","autore":"bocchini sergio","img":"9788810614068.jpg" },
+  {"isbn":"9788842454029","materia":"italiano","titolo":"basi della letteratura 3","autore":"sacco paolo","img":"9788842454029.jpg" },
+  {"isbn":"9788808812568","materia":"inglese","titolo":"performer b2 updated","autore":"spiazzi marina/tavella marina","img":"9788808812568.jpg" },
+  {"isbn":"9781380006882","materia":"inglese","titolo":"new get inside language","autore":"aa vv","img":"9781380006882.jpg" },
+  {"isbn":"9788853005489","materia":"inglese","titolo":"picture of dorian gray","autore":"wilde oscar","img":"9788853005489.jpg" },
+  {"isbn":"9788842435570","materia":"storia","titolo":"citta' della storia 3","autore":"fossati/luppi/zanette","img":"9788842435570.jpg" },
+  {"isbn":"9788808831538","materia":"matematica","titolo":"matematica verde - volume 4","autore":"bergamini massimo/barozzi graziella","img":"9788808831538.jpg" },
+  {"isbn":"9788874856411","materia":"informatica","titolo":"eprogram","autore":"acobelli cesare/ajme marialaura","img":"9788874856411.jpg" },
+  {"isbn":"9788849420760","materia":"sistemi e reti","titolo":"gateway - volume 3","autore":"anelli s/macchi p/pangiani g","img":"9788849420760.jpg" },
+]
+
